@@ -6,6 +6,8 @@ A simple test with matplotlib to visualize a vector of weights of each region in
 
 This Jupyter Notebook is just a silly test...
 
+![Plot Example Image](https://raw.githubusercontent.com/whoisraibolt/Weights-of-Each-Region/master/plot.png)
+
 ## Dependencies
 
 - matplotlib
