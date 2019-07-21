@@ -1,5 +1,10 @@
 # Weights of Each Region
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Weights-of-Each-Region.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Weights-of-Each-Region.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Weights-of-Each-Region.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Weights-of-Each-Region.svg)
+
 A simple test with matplotlib to visualize a vector of weights of each region in Python.
 
 ## Overview
